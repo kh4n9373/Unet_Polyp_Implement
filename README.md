@@ -1,5 +1,21 @@
 # PHAM TRAN TUAN KHANG - 20225503
 
+### Complete folder structure 
+```
+github/
+├── __pycache__/
+├── checkpoints-20241123T123919Z-001/
+│   └── checkpoints/
+│       └── model/
+│           └── model.ckpt
+├── predicted/
+├── .gitignore
+├── image.jpeg
+├── infer.py
+├── model.py
+├── README.md
+└── requirements.txt
+```
 ### Usage
 ```
 git clone https://github.com/kh4n9373/Unet_Polyp_Implement.git
