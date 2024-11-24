@@ -27,6 +27,9 @@ cd Unet_Polyp_Implement
 conda activate UnetImplementTest
 pip install -r requirements.txt -->
 
+<!-- test prediction -->
 python3 infer.py --image_path image.jpeg
+
+<!-- check predicted/ folder -->
 ```
 
